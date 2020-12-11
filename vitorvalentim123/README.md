@@ -8,7 +8,7 @@ Editar este git.
 Qual a função/objetivo do arquivo readme?
 
 
-### EDITAR README
+### EDITAR README - Iten pendente
 
 1. Realizar fork do repositório https://github.com/flaviojoliveira/PyTorch_RN.
 
